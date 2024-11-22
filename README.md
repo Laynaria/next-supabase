@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Why this repository?
+
+This repository is a training repository which will be used as a basis for one of my main project.
+
+> Rest of the readme for now will be basic Next JS Readme.
 
 ## Getting Started
 
